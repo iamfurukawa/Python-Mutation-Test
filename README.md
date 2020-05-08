@@ -1,4 +1,4 @@
-# Python-Mutation-Test
+# Python Mutation Test
 This is a simple example using MutPy.
 
 To the environment use: ```pipenv```
